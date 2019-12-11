@@ -24,8 +24,7 @@ deploy_key_rsa
 
 *.iml
 
-*.class
-*.jar
+
 *.war
 *.lst
 
